@@ -4,11 +4,11 @@ Inaya Siddiqui
 
 This program predicts missing housing prices from a dataset using machine
 learning methods. It reads data from an input file, processes categorical and numerical data, 
-and applies data transfomrations to conduct analysis. The program trains and evaluates
+and applies data transformations to conduct analysis. The program trains and evaluates
 models, including SVM, Random Forest, and Linear Regression, and selects the best model 
-based on performance metrics. After presdicting the missing sales prices, results are output to 
+based on performance metrics. After predicting the missing sales prices, results are output to 
 a new data file with a complete list of housing prices. Additionally, the program produces exploratory
-data analysis visualizations inlcuding a linear regression plot, a heatmap to display the correlation between variables, a bar plot 
+data analysis visualizations inlcuding a linear regression plot, a heatmap to display correlations between variables, a bar plot 
 displaying the quantity of types within each categorical value, and a bar plot displaying the distribution
 of values across each categorical feature.
 
